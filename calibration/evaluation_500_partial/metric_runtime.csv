@@ -1,0 +1,5 @@
+metric,value_seconds
+total_runtime_until_interrupt,2071.927702503999
+derived_seconds_per_candidate_record,8.255
+derived_seconds_per_successful_generation,13.282
+derived_seconds_per_selected_statement,115.107

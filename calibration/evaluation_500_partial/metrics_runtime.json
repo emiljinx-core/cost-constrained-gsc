@@ -1,0 +1,15 @@
+{
+  "source": "manifest.json (wall-clock runtime until KeyboardInterrupt)",
+  "manifest_status": "interrupted",
+  "manifest_error": "KeyboardInterrupt",
+  "total_runtime_seconds": 2071.927702503999,
+  "total_runtime_minutes": 34.532,
+  "per_event_timestamps_available": false,
+  "missing_timing_data": "The checkpoint contains no per-generation or per-scoring timestamps; separate average generation/scoring times CANNOT be calculated.",
+  "derived_aggregates_from_total_only": {
+    "seconds_per_candidate_record": 8.255,
+    "seconds_per_successful_generation": 13.282,
+    "seconds_per_selected_statement": 115.107,
+    "caveat": "Derived by dividing total wall-clock time by counts; includes retries, scoring, connectivity checks and interrupt handling. NOT isolated generation or scoring times."
+  }
+}

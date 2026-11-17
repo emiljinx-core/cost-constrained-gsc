@@ -1,0 +1,13 @@
+measure,key,value
+query_accuracy,scored_pairs_total,4603
+query_accuracy,mean_score,3.5429067999131
+representation,coverage_percent,79.0
+representation,participants_assigned,79
+representation,statements_selected,18
+diversity,selected_unique_statements,16
+diversity,mean_pairwise_jaccard,0.1765093821264326
+diversity,semantic_similarity_computed,False
+budget,words_consumed,359
+budget,utilisation_percent,71.8
+runtime,total_runtime_seconds,2071.927702503999
+runtime,per_stage_timings_available,False

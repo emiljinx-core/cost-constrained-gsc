@@ -1,0 +1,39 @@
+{
+  "selected_unique_statements": 16,
+  "selected_statement_count": 18,
+  "selected_exact_duplicates": 2,
+  "generated_unique_statements": 154,
+  "generated_statement_count": 156,
+  "generated_exact_duplicates": 2,
+  "lexical_jaccard_all_tokens": {
+    "count": 153,
+    "mean": 0.1765093821264326,
+    "median": 0.14,
+    "stdev": 0.14534031812109263,
+    "min": 0.027777777777777776,
+    "max": 1.0
+  },
+  "lexical_jaccard_content_tokens": {
+    "count": 153,
+    "mean": 0.13978188247363757,
+    "median": 0.1,
+    "stdev": 0.14450726408146114,
+    "min": 0.02631578947368421,
+    "max": 1.0
+  },
+  "distinct_vocabulary_size_selected": 133,
+  "total_tokens_selected": 363,
+  "type_token_ratio_selected": 0.3664,
+  "word_count_per_statement": {
+    "count": 18,
+    "mean": 19.944444444444443,
+    "median": 22.5,
+    "stdev": 9.320895073292064,
+    "min": 5.0,
+    "max": 33.0
+  },
+  "semantic_similarity": {
+    "computed": false,
+    "reason": "No statement embeddings exist in the project. The only available embeddings are participant embeddings (qwen3:0.6b, for participant summaries), which are not comparable to statements. Computing statement embeddings would require Ollama calls, which are explicitly out of scope for this evaluation."
+  }
+}

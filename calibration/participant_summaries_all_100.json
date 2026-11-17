@@ -1,0 +1,4777 @@
+{
+  "schema_version": "abortion-participant-summary-v1",
+  "participant_count": 100,
+  "successful_count": 100,
+  "failed_count": 0,
+  "records": [
+    {
+      "participant_id": "generation1",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant strongly supports the right to abortion as a matter of bodily autonomy and freedom, emphasizing that it is not immoral or criminal. They believe that access to abortion is vital for women's autonomy and that restrictions are primarily used to control women's lives. They also acknowledge ethical ambiguity when the fetus is viable, but generally prioritize a woman's right to abortion.",
+        "policy_positions": [
+          {
+            "statement": "The participant broadly supports legal access to abortion, with qualifications described in the cited responses.",
+            "evidence_response_indices": [
+              1,
+              2,
+              3,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion is appropriate in most situations, though ethical ambiguity arises when the fetus is viable.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is a matter of bodily autonomy and should not be interfered with by the state.",
+            "evidence_response_indices": [
+              1,
+              3,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges ethical ambiguity when the fetus is viable but generally prioritizes a woman's right to abortion, which may create tension in specific scenarios.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for viability",
+          "Views on the moral status of the fetus beyond viability",
+          "Stance on exceptions or restrictions in specific circumstances"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation2",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant is pro-choice but has nuanced views on the circumstances under which abortion should be accessible, emphasizing the importance of medical necessity, personal autonomy, and the availability of alternatives.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be safe, legal, and freely available regardless of poverty level, and very rare.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be legal until approximately twenty weeks and after that for the health (MENTAL TOO) of the mother when needed.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The need for abortion would be rare with freely available sex education and birth control.",
+            "evidence_response_indices": [
+              1
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports making abortion freely available regardless of poverty level but also emphasizes that it should be very rare.",
+            "evidence_response_indices": [
+              5,
+              1
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for when abortion should be restricted beyond medical necessity",
+          "Clarification on how the participant defines 'very rare' in the context of abortion access"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation3",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports reproductive rights and is concerned about restrictive abortion laws, particularly regarding the health and safety of the mother. They believe in a nuanced approach that considers medical necessity, the mother's well-being, and the circumstances of the pregnancy.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal up to 20 weeks gestation.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "A woman's reproductive rights are nobody else's business.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be available if the mother's life is at risk or if the pregnancy resulted from a sexual crime.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          },
+          {
+            "statement": "Abortion should be restricted to a couple of weeks before the point at which a fetus can feel pain.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The mother's life should always take priority over the life of the fetus who is not fully human until it takes its first breath outside of the womb.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "A fetus cannot feel pain as we know it before around 22 weeks.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports legal abortion up to 20 weeks but is uncertain about appropriateness beyond 15 weeks with no medical issues.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": []
+      }
+    },
+    {
+      "participant_id": "generation4",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant has mixed views on abortion, expressing both support for its legality and opposition to its use, while emphasizing the importance of medical expertise and personal autonomy.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal in certain circumstances.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "Abortion should not be made lightly and should involve serious consideration.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "The medical community should decide the circumstances under which abortion is allowed.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The decision to have an abortion should not be made by non-medical professionals.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "The decision to have an abortion should involve the woman, her doctor, and her faith.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports legal abortion in some cases but is against abortion in general.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific circumstances under which the participant would support or oppose abortion",
+          "Clarification on whether the participant believes in exceptions for cases of rape or medical necessity"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation5",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant strongly supports a woman's right to choose regarding her body and fetus, emphasizing personal autonomy and legal access to abortion.",
+        "policy_positions": [
+          {
+            "statement": "A woman should be able to choose what she does with her body and her fetus",
+            "evidence_response_indices": [
+              1,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "The participant broadly supports legal access to abortion, with qualifications described in the cited responses.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Personal autonomy and bodily rights are central to the participant's reasoning",
+            "evidence_response_indices": [
+              1,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant expresses both strong support for unrestricted access and a potential hesitation in the very last days of pregnancy",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific exceptions or conditions the participant might consider for legal restrictions",
+          "Clarification on whether the participant would support exceptions for fetal viability or other medical reasons"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation6",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant emphasizes bodily autonomy and the importance of personal decision-making regarding abortion, with some reservations about government involvement in specific circumstances.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal in almost all cases.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "The government should not be involved unless there is some compelling reason, like lack of consent.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Bodily autonomy is very important, and people often try to tell trans individuals what to do with their bodies.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "Response 2 and 5 both support legal access to abortion, but 5 introduces a condition about government involvement in specific cases, which may create a tension with the more general stance in 2.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific exceptions or scenarios where the participant would support restrictions on abortion access."
+        ]
+      }
+    },
+    {
+      "participant_id": "generation7",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant believes abortion should be illegal in most circumstances, emphasizing personal responsibility and the sanctity of life. They acknowledge exceptions for cases where the mother's life is at risk but express skepticism about the sincerity of such claims.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be illegal.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion may be allowed if the mother's life is truly at risk.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is seen as an easy out for poor choices, and responsibility for pregnancy should lie with the person who became pregnant.",
+            "evidence_response_indices": [
+              1,
+              2,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges exceptions for the mother's life at risk but questions the sincerity of such claims, creating a tension between legal exceptions and personal responsibility.",
+            "evidence_response_indices": [
+              4,
+              2,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for determining when the mother's life is at risk",
+          "Clarification on how responsibility is defined in cases of rape or incest"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation8",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports abortion rights and believes in making abortion accessible and available for all women, with some nuances regarding late-term procedures.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be freely legal with no penalties.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Late-term abortions are medically necessary in almost all situations, except for non-medical reasons.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The decision to have an abortion is a personal choice between a woman and her doctor.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "Response 4 suggests that late-term abortions are medically necessary in almost all situations, which contradicts the general stance in response 2 and 5 that abortion should be accessible without restrictions.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for what constitutes a medical necessity in late-term abortions",
+          "Whether the participant supports exceptions for non-medical reasons in late-term abortions"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation9",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant strongly supports access to abortion as a fundamental right, emphasizing personal autonomy and the negative consequences of criminalizing abortion. They believe the government should not interfere with individuals' decisions regarding their bodies.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be accessible to anyone who wants it.",
+            "evidence_response_indices": [
+              1,
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be allowed only in cases of medical complications during later months of pregnancy.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Criminalizing abortion puts people at risk and cannot be framed as a pro-health stance.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports access to abortion in all circumstances but also expresses uncertainty about later-term abortions without medical complications.",
+            "evidence_response_indices": [
+              1,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific time limits or definitions of medical complications",
+          "Clarification on whether the participant supports exceptions for non-medical reasons"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation10",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant has a nuanced stance on abortion, leaning pro-life but acknowledging exceptions for specific circumstances such as rape, health complications, and severe birth defects.",
+        "policy_positions": [
+          {
+            "statement": "Abortion is morally problematic due to the ending of a life before it is truly begun.",
+            "evidence_response_indices": [
+              1
+            ]
+          },
+          {
+            "statement": "Abortion should be legal in certain cases.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "Abortion is a violation of the right to life, though not necessarily 'murder'.",
+            "evidence_response_indices": [
+              3
+            ]
+          },
+          {
+            "statement": "Abortion should be legal for cases of rape and serious health complications.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be legal only in cases of rape, health complications, or severe birth defects.",
+            "evidence_response_indices": [
+              2,
+              4,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is a moral issue that people often become emotional about, so the participant avoids discussing it.",
+            "evidence_response_indices": [
+              1
+            ]
+          },
+          {
+            "statement": "The sanctity of life is a societal and philosophical belief, not solely religious.",
+            "evidence_response_indices": [
+              3
+            ]
+          },
+          {
+            "statement": "A child with a serious birth defect may not have a fulfilling life, which influences the participant's view.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges the moral implications of abortion but also supports its legality in specific cases, creating a tension between their pro-life stance and conditional support for legal abortion.",
+            "evidence_response_indices": [
+              1,
+              2,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "The participant does not specify how they would handle cases where the mother's health is at risk but not life-threatening.",
+          "The participant does not clarify their stance on late-term abortions or non-medical reasons for abortion."
+        ]
+      }
+    },
+    {
+      "participant_id": "generation11",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant emphasizes the importance of a woman's right to choose regarding abortion, while expressing personal disinterest in the topic due to age and life stage.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal and a woman's right to choose.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be legal with regulations to ensure safety and proper care.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is a personal choice that does not affect others, so individuals should not interfere.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports legal abortion but expresses concern about unsafe, illegal procedures.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific religious or political beliefs influencing the participant's stance",
+          "Clarification on whether the participant supports restrictions based on specific circumstances"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation12",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports abortion rights and believes in making abortions legal in various circumstances, including cases of rape, health risks, and unpreparedness for parenthood. They also express concerns about systemic racism in healthcare and the impact of unwanted pregnancies on women's lives.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal in cases of rape, when a woman is not ready for pregnancy, when pregnancy could be fatal, and other similar circumstances.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "The participant broadly supports legal access to abortion, with qualifications described in the cited responses.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is necessary to protect women's health and autonomy, especially in cases of rape, health risks, and unpreparedness for parenthood.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant expresses uncertainty about the appropriateness of abortion in cases involving young women who become pregnant, while also advocating for abortion in other situations.",
+            "evidence_response_indices": [
+              1,
+              4
+            ]
+          }
+        ],
+        "missing_information": []
+      }
+    },
+    {
+      "participant_id": "generation13",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant strongly supports a woman's right to choose abortion, emphasizing that it is a personal healthcare decision. They believe abortion should be accessible and legal in most circumstances, with some exceptions related to late-term procedures and health risks.",
+        "policy_positions": [
+          {
+            "statement": "A woman’s right to choose should always be protected.",
+            "evidence_response_indices": [
+              1
+            ]
+          },
+          {
+            "statement": "Abortion should be legal in all instances.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "Abortion access should always be available to all women who choose not to have a child.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Late-term abortions can be prevented by and large and maybe in some instances should not be provided.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "A child is an incredible responsibility and if a woman feels she is not ready for that responsibility, she should not be forced to take that on.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "It isn’t healthy for anyone and often results in abuse or poverty or worse.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports late-term abortions when health is at risk but also believes they should be prevented in some instances.",
+            "evidence_response_indices": [
+              4,
+              2
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for when late-term abortions should or should not be provided",
+          "Clarification on the definition of 'health risks' in the context of late-term abortions"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation14",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant is pro-choice and supports the right to abortion, with varying positions on when it should be allowed and under what conditions.",
+        "policy_positions": [
+          {
+            "statement": "Support the right to abortion for any reason in the first trimester",
+            "evidence_response_indices": [
+              1,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Support abortion for medical reasons beyond life-threatening cases",
+            "evidence_response_indices": [
+              1,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Belief that abortion is necessary to prevent harm, trauma, and unnecessary suffering for women",
+            "evidence_response_indices": [
+              1,
+              3,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "Conflicting views on the second trimester: some support allowing abortion with medical complications, while others suggest it should be limited to medical reasons or not allowed at all",
+            "evidence_response_indices": [
+              1,
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for defining medical complications",
+          "Clarification on how states' restrictions would be implemented",
+          "Whether the participant supports exceptions for non-medical reasons beyond the first trimester"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation15",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports the legalization of abortion as a healthcare decision, with specific considerations for late-term cases and the health of the mother and child.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Late-term abortions should be considered based on the health of the mother and the viability of the fetus.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is a healthcare decision, not a matter of religious or moral obligation.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "Response 2 states there are no circumstances except late term, while Response 4 provides specific conditions for late-term abortions.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific socioeconomic factors considered in determining abortion access",
+          "Clarification on how religious beliefs influence the participant's stance"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation16",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports legalizing abortion, emphasizing safety, personal autonomy, and societal regulation.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal to prevent dangerous illegal procedures.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be restricted if the baby is almost going to be born.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion should be legal because it allows people to make their own decisions about their bodies.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports legalizing abortion without restrictions but also suggests a time limit for late-term abortions.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific time limit for late-term abortions",
+          "Whether the participant supports exceptions for rape or health reasons"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation17",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports the legality and accessibility of abortion, emphasizing the importance of personal autonomy and the right of women to make decisions about their own bodies. They acknowledge the complexity of the issue and the need for exceptions in specific circumstances.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal and accessible, with the decision being solely that of the pregnant woman.",
+            "evidence_response_indices": [
+              1,
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be restricted to the period prior to fetal viability, with exceptions for unplanned pregnancies, rape, incest, and birth defects.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is a medical procedure that should be treated with the same autonomy as other personal health decisions.",
+            "evidence_response_indices": [
+              2,
+              3,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports unrestricted rights beyond fetal viability but also acknowledges the need for restrictions in specific cases, which may create tension in policy design.",
+            "evidence_response_indices": [
+              4,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific time limit for fetal viability",
+          "Definition of 'near-viability'"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation18",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports abortion rights and believes individuals should have autonomy over their reproductive decisions, with exceptions for health and safety concerns.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal with no restrictions or limitations.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "Abortion should be accessible and protected for everyone who needs or wants it.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Late-term abortions should be allowed only when there is serious potential for death for either the mother or baby with limited options.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Support for abortion rights is rooted in personal autonomy and the avoidance of dangerous, outdated procedures.",
+            "evidence_response_indices": [
+              3,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports unrestricted abortion rights but expresses uncertainty about late-term procedures, indicating a potential tension between their general stance and specific concerns about later stages of pregnancy.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for what constitutes a 'serious potential for death' in late-term abortions",
+          "Clarification on whether the participant supports exceptions for fetal disability"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation19",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports the right to choose and believes abortion should be legal in most cases, particularly for health reasons, rape, and other medical emergencies. They emphasize the importance of personal autonomy and healthcare access, while acknowledging the complexity of the issue and the need for context.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal in most cases, including for health reasons, rape, and medical emergencies.",
+            "evidence_response_indices": [
+              1,
+              2,
+              3,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be available for situations involving rape and ectopic pregnancies, but not for non-medical or non-urgent cases.",
+            "evidence_response_indices": [
+              2,
+              3,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The participant believes that denying access to abortion is a denial of healthcare and personal autonomy, especially for women facing medical or traumatic circumstances.",
+            "evidence_response_indices": [
+              2,
+              3,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges that personal circumstances (e.g., unplanned pregnancies) may influence their stance, but also emphasizes the importance of autonomy and healthcare access, which may create tension in specific cases.",
+            "evidence_response_indices": [
+              1,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for when abortion should be restricted or allowed in non-medical cases",
+          "The participant's views on late-term abortions or exceptions beyond health, rape, or ectopic pregnancies"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation20",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a neutral stance on abortion legality and emphasizes personal responsibility and individual choice. They acknowledge the complexity of the issue and the importance of respecting diverse perspectives.",
+        "policy_positions": [
+          {
+            "statement": "The participant prefers to remain neutral on the legality of abortion.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "The participant believes that abortion should not be used as a routine or irresponsible choice, particularly in cases of repeated abortions without responsible sexual behavior.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The participant views abortion as a personal decision that should be made by individuals, with respect for their choices and circumstances.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant's belief in the sanctity of life and personal responsibility conflicts with their acknowledgment of the complexity and diversity of perspectives on abortion.",
+            "evidence_response_indices": [
+              2,
+              3,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for determining when abortion is appropriate or inappropriate",
+          "The participant's stance on exceptions or restrictions beyond personal responsibility",
+          "The participant's views on the role of government or societal norms in regulating abortion"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation21",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports the right to abortion, emphasizing its importance for women's autonomy and addressing the impact of poverty on reproductive choices.",
+        "policy_positions": [
+          {
+            "statement": "Abortion is important for women to retain the right to have",
+            "evidence_response_indices": [
+              1
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should only be legal if the fetus is viable",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Women have historically been harmed by pregnancies they could not end, and poverty continues to affect their ability to care for children",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports legal abortion under viability but also expresses a belief that abortion is not right when the fetus can live on its own",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for viability",
+          "Definition of 'special circumstances'"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation22",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a strong pro-life stance, believing that abortion should generally be illegal, with limited exceptions, and is influenced by religious and personal values.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be illegal in most cases.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Exceptions should only be made when the mother's life is considerably at risk.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The participant's views are rooted in religious beliefs and the sanctity of life.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges moral complexity in cases where the mother's health is at risk, but also believes that exceptions should be limited to such cases.",
+            "evidence_response_indices": [
+              4,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for defining 'considerable risk' or how ethical considerations should be balanced."
+        ]
+      }
+    },
+    {
+      "participant_id": "generation23",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a strong moral stance against abortion, with exceptions only in specific medical circumstances.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be illegal in most circumstances.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be legal only if the pregnancy is dangerous to the mother or if the baby's quality of life would be inhumanely poor.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Beliefs about abortion are rooted in moral values and the belief that life is sacred, especially for an unborn child.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant expresses uncertainty about the morality of abortion in cases where the baby's condition is severe, highlighting a tension between the value of life and the quality of life.",
+            "evidence_response_indices": [
+              4,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for determining 'extenuating circumstances' or 'medically professional diagnosis'"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation24",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a strong pro-choice stance, emphasizing the importance of legal access to abortion without compromise, while expressing some uncertainty about the moral boundaries of the procedure.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal in its entirety, with no compromise.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion post birth would be inappropriate, though the participant considers this a moral issue rather than a legal one.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The participant does not believe any argument against abortion is convincing enough to justify restrictions.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports legal access to abortion in all circumstances but expresses moral reservations about post-birth procedures.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for legal exceptions or restrictions",
+          "Clarification on the participant's stance on post-birth procedures beyond moral reservations"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation25",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a nuanced stance on abortion, emphasizing its use for medical reasons, rape, or incest, while expressing strong opposition to its use as a form of birth control.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal for cases of rape, incest, and medical reasons where the life of the baby or mother is in danger.",
+            "evidence_response_indices": [
+              1,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should not be legal for non-medical reasons such as personal choice or convenience.",
+            "evidence_response_indices": [
+              1,
+              2,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "There are many ways to prevent pregnancy, and using abortion as a form of birth control is considered absurd.",
+            "evidence_response_indices": [
+              1,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant expresses both a belief that abortion should be illegal in most cases and a recognition that there are instances where it is unclear, particularly for medical reasons.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for determining when an abortion is medically necessary",
+          "Clarification on the participant's stance on late-term abortions"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation26",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant has a nuanced and evolving stance on abortion, emphasizing personal responsibility, legal access, and the need for accountability.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be fully available to women that choose to have the abortion, and the father does not contest the abortion.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "My beliefs about abortion come from my life experiences. In my youth I was adamantly against abortion, but through life experiences through living in modern society I have changed my mind and fully support abortion.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "There is a tension between supporting abortion access for women who take responsibility and opposing abortion when the father does not consent or when the mother does not take responsibility for her actions.",
+            "evidence_response_indices": [
+              4,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for determining responsibility or accountability in cases of abortion.",
+          "Clarification on how the father's involvement is defined or enforced in cases of disagreement."
+        ]
+      }
+    },
+    {
+      "participant_id": "generation27",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a strong opposition to abortion, viewing it as taking a life, and dislikes the language used to justify it. They support exceptions for rape and incest but are critical of those who use these exceptions to justify all abortions.",
+        "policy_positions": [
+          {
+            "statement": "Abortion is inherently evil and taking a life.",
+            "evidence_response_indices": [
+              1,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Exceptions should be made for rape and incest.",
+            "evidence_response_indices": [
+              2,
+              4,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Killing a child because it is inconvenient is wrong and valueless.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports exceptions for rape and incest but criticizes those who use these exceptions to justify all abortions.",
+            "evidence_response_indices": [
+              2,
+              4,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific legal or policy preferences beyond exceptions for rape and incest",
+          "Views on late-term abortions or non-rape/incest cases"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation28",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a generally supportive stance toward abortion, emphasizing individual autonomy and medical guidance, while acknowledging personal and situational considerations.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal and up to the individual and their medical caregiver",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be restricted in cases where the child is fully developed and there will be no complications, if the parent changes their mind",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The decision should be based on the logical decision informed by the stories and opinions of those impacted",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports individual autonomy but also acknowledges specific situations where restrictions may be justified, creating a tension between personal choice and situational limitations",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for when restrictions should apply",
+          "Clarification on the extent of medical professional influence",
+          "Definition of 'non-medical reasons'"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation29",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a strongly restrictive view of abortion, allowing it only in specific, limited circumstances and expressing moral judgment toward women who seek abortions.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be illegal in all cases except when the mother's life is in danger or in cases of rape.",
+            "evidence_response_indices": [
+              1,
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should only be allowed if there is clear evidence of rape or danger to the mother's life.",
+            "evidence_response_indices": [
+              4,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is morally wrong, and women who seek it should be held accountable for their choices.",
+            "evidence_response_indices": [
+              2,
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant expresses uncertainty about the validity of rape claims, which conflicts with the allowance of abortion in cases of rape.",
+            "evidence_response_indices": [
+              1,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for determining when a woman's life is in danger",
+          "Definition of 'rape' and how it is proven",
+          "Legal procedures for enforcing restrictions on abortion access"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation30",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant has a nuanced stance on abortion, emphasizing the importance of shared decision-making and the woman's autonomy, while acknowledging the complexity of the issue.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be fully legal",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "Abortion should be mostly legal",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be legal only if both the male and female agree",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Beliefs are formed through life experiences and adult perspectives",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "Conflict between the idea that abortion should be fully legal and the idea that it should be legal only if both partners agree",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific exceptions or conditions for when abortion should not be legal",
+          "Clarification on how the male party's disagreement affects the legality of abortion"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation31",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant is a strong pro-choice advocate who believes abortion is essential healthcare and should be accessible in all cases, while also acknowledging the importance of improving societal support systems.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be completely legal.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "Abortion is healthcare and should be treated as such.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Repeat abortions may indicate a lack of sexual education and mental health resources, not a problem with abortion itself.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Every person deserves control over their body and circumstances, regardless of the situation.",
+            "evidence_response_indices": [
+              3
+            ]
+          },
+          {
+            "statement": "Without abortion, thousands would die, get hurt, or bring children into the world they cannot care for.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports abortion in every case but also acknowledges the need for improved societal support systems, which could imply a tension between access to abortion and addressing root causes.",
+            "evidence_response_indices": [
+              5,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific exceptions or limitations to the participant's support for abortion in all cases."
+        ]
+      }
+    },
+    {
+      "participant_id": "generation32",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports a woman's right to choose what to do with her body and believes in bodily autonomy, but has nuanced views on when abortions should be legally allowed.",
+        "policy_positions": [
+          {
+            "statement": "Supports a woman's right to choose what to do with her body.",
+            "evidence_response_indices": [
+              1
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Legal up to a certain trimester.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Believes that a fetus becomes a human being with rights at a certain point in development.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "Response 2 suggests legal abortion up to a certain trimester, while Response 4 and 5 suggest allowing abortions up to the third trimester.",
+            "evidence_response_indices": [
+              2,
+              4,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific trimester cutoff for legal abortion",
+          "Definition of when a fetus becomes a human being with rights"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation33",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a strong pro-life stance, considering life to start at conception and opposing abortion as killing a human being. They believe abortion should be illegal in most cases, with some conditional exceptions, and emphasize the importance of education on natural family planning.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be illegal in most cases.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion is inappropriate in all cases except for dead fetuses or unviable embryos.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is considered killing a human life, which is illegal.",
+            "evidence_response_indices": [
+              1,
+              2,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports natural family planning as an alternative to abortion but also believes that people should abstain from sex during their fertile window to avoid pregnancy, which could be seen as a contradiction in their stance on sexual morality.",
+            "evidence_response_indices": [
+              3,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific exceptions or time limits for when abortion might be allowed",
+          "Clarification on how the participant defines 'killing a human life' in the context of abortion"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation34",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports abortion rights and believes it is a personal choice, though they express concern about access and late-term abortions.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal for all people who want one.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Late-term abortions should have cutoffs due to issues associated with them.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is a right, and restricting it could harm people seeking illegal procedures.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports legal abortion without restrictions but also mentions late-term cutoffs.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": []
+      }
+    },
+    {
+      "participant_id": "generation35",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant has a generally supportive stance on abortion legality, emphasizing personal autonomy and the right to make decisions about one's body. They express some uncertainty or irritation about the topic when discussed in certain contexts, but do not advocate for restrictions in most cases.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal regardless of the circumstances.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion may be inappropriate in the weeks/days leading up to the expected birth, but should still be legal.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Personal autonomy and the right to make decisions about one's body are central to the participant's views.",
+            "evidence_response_indices": [
+              2,
+              3,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant expresses irritation with discussions about abortion, yet supports its legality in all circumstances.",
+            "evidence_response_indices": [
+              1,
+              2,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific exceptions or conditions under which the participant would support restrictions on abortion",
+          "Clarification on how the participant defines 'inappropriate' in the context of late-term abortions"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation36",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a nuanced position on abortion, acknowledging personal beliefs and specific circumstances, while expressing some uncertainty about the frequency of their thoughts on the topic.",
+        "policy_positions": [
+          {
+            "statement": "Some abortions are acceptable in certain circumstances.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should not be used as a contraceptive or to 'fix' something a person doesn't want to happen.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The participant's beliefs are based on personal feelings and not external influence.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant expresses both uncertainty about the frequency of their thoughts on the topic and confidence in their beliefs about acceptable circumstances.",
+            "evidence_response_indices": [
+              1,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for acceptable circumstances",
+          "Clarification on what constitutes a 'life or death' situation"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation37",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant strongly supports a woman's right to make decisions about her own body regarding abortion, emphasizing personal autonomy and rejecting political interference in medical decisions.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Every situation is different and should be handled accordingly.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "No one should be able to tell a woman what to do with her body.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant's emphasis on personal autonomy and rejection of societal involvement conflicts with the idea that every situation is different and should be handled accordingly.",
+            "evidence_response_indices": [
+              5,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific conditions or exceptions under which abortion might be restricted, if any."
+        ]
+      }
+    },
+    {
+      "participant_id": "generation38",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant believes that abortion is generally forbidden but acknowledges exceptions in specific circumstances, emphasizing the importance of individual judgment and guidance based on knowledge and belief systems.",
+        "policy_positions": [
+          {
+            "statement": "Abortion is generally forbidden.",
+            "evidence_response_indices": [
+              4,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion may be permissible in cases of rape, within the first forty days, or before the soul is breathed into the embryo.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion decisions should be left to people knowledgeable about the topic, with consideration of the circumstances surrounding the pregnancy.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges that different Islamic scholars have varying opinions on the permissibility of abortion, which may create tension with the idea of a single, clear principle.",
+            "evidence_response_indices": [
+              3,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for determining when abortion is permissible beyond the mentioned exceptions",
+          "Clarification on how society should evaluate each situation individually"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation39",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant emphasizes the importance of a woman's autonomy in making decisions about her body and reproductive rights, while acknowledging the risks and complexities involved in abortion procedures.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal as it is a woman's choice.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be allowed except when the mother's health is at risk due to the fetus being too large.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is necessary to prevent unsafe procedures and protect women's health.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "Abortion is a right that should be prioritized over the interests of the unborn child, especially when the mother is in a vulnerable situation.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports abortion as a woman's right without exceptions, but also acknowledges the risks of unsafe procedures when abortion is illegal, creating a tension between these positions.",
+            "evidence_response_indices": [
+              4,
+              5
+            ]
+          }
+        ],
+        "missing_information": []
+      }
+    },
+    {
+      "participant_id": "generation40",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant believes abortion should be legal and accessible, with strong support for a woman's right to choose, but acknowledges specific exceptions and conditions.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal everywhere.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should not be available in extremely late term cases where the baby could survive.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion should be available based on common sense and empathy for people in difficult situations.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports abortion being legal everywhere but also supports restrictions in late-term cases.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for determining late-term abortions",
+          "Views on the role of religion in shaping abortion laws"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation41",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a complex and conflicted stance on abortion, influenced by personal experience, religious beliefs, and ethical considerations.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be illegal except in specific circumstances.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion is permissible if the mother or child is in danger.",
+            "evidence_response_indices": [
+              2,
+              4,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is considered morally wrong due to the belief that it involves killing a living being.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant expresses guilt over their own past abortion but also opposes abortion in general, creating a tension between personal experience and broader policy views.",
+            "evidence_response_indices": [
+              1,
+              3
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for 'rare other possibilities' in permissible abortions",
+          "Clarification on the role of religion in shaping policy views"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation42",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a strong opposition to abortion, viewing it as murder and emphasizing the sanctity of the unborn child. They believe abortion should be illegal in most cases with a few exceptions, and they express concern about the moral implications of terminating a pregnancy.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be illegal in most cases with a few exceptions.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Exceptions may include cases of rape, as the mother's consent is questioned.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is equated with murder, based on the belief that the unborn child has inherent value.",
+            "evidence_response_indices": [
+              3,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges exceptions for rape but does not fully reconcile this with their general opposition to abortion as murder.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for the exceptions mentioned in response 2",
+          "Clarification on how the participant defines 'murder' in the context of abortion"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation43",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant views abortion as a complex and morally troubling issue, influenced by political, economic, and ethical concerns. They believe it should be restricted, with exceptions for the mother's health, and advocate for societal changes to reduce its occurrence.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be treated as a necessary evil.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be illegal after 4 weeks unless the life of the mother is in danger.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is tied to political manipulations and is a money-making endeavor.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports restricting abortion after 4 weeks but also believes that abortions for convenience should be reduced, which may conflict with the idea of limiting abortions for all non-medical reasons.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for determining when a fetus is considered a potential human",
+          "The participant's stance on late-term abortions beyond the 4-week limit"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation44",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant expresses uncertainty about their stance on abortion and avoids discussing it, but when they do, they align with a Christian perspective that opposes abortion.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be illegal",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion is not appropriate because God may have a purpose for the child's life",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The participant is a Christian man who believes that no child should be killed by abortion",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant expresses uncertainty about their stance on abortion while also expressing a clear opposition to it based on their Christian beliefs",
+            "evidence_response_indices": [
+              1,
+              2
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific circumstances under which the participant might support abortion",
+          "Whether the participant's views are influenced by specific religious teachings or interpretations"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation45",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant has mixed views on abortion policy, expressing discomfort with discussing it and holding strong opinions about its legality in specific circumstances.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be illegal in most cases",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should have strict requirements",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion should be illegal unless in cases of sexual assault",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports making abortion illegal in most cases but also believes it should be allowed in cases of sexual assault",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for strict requirements",
+          "Definition of 'poor life decisions'"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation46",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports legal access to abortion but acknowledges the need for limits and ethical considerations in specific circumstances.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal and available for those who need it.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "There should be limits to prevent the availability of abortion from being corrupted by those who do not respect its seriousness.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is a personal matter, and making it illegal leads to unnecessary danger and expense.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports legal access to abortion but also questions its appropriateness in cases where it is treated as a form of birth control.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for defining 'respect for the seriousness of abortion'"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation47",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant is pro-choice and emphasizes the importance of women's rights and autonomy over their own beliefs. They believe that abortion should be legal and that personal and private circumstances should not be subject to public judgment.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be accessible in circumstances beyond a woman's or child's control, which are personal and private.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Support for pro-choice is rooted in the importance of women's rights and personal autonomy.",
+            "evidence_response_indices": [
+              1,
+              3,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant's emphasis on personal autonomy and privacy conflicts with the idea that the father should be involved in the decision-making process.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific exceptions or restrictions on when abortion should be allowed",
+          "The participant's stance on late-term abortions",
+          "The participant's views on government regulation of abortion"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation48",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant strongly supports abortion access and views it as a fundamental aspect of reproductive freedom and women's autonomy. They emphasize the importance of women's right to choose and express concern about restrictions on reproductive freedom.",
+        "policy_positions": [
+          {
+            "statement": "The participant broadly supports legal access to abortion, with qualifications described in the cited responses.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "The participant broadly supports legal access to abortion, with qualifications described in the cited responses.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "The only scenario that gives pause is a late-term abortion for a previously wanted and currently healthy pregnancy.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is fundamental to women's freedom.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "Women should have total autonomy over their bodies and the trajectories of their lives.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "Response 2 and Response 4 both express strong support for abortion access, but Response 4 raises a specific exception to late-term abortions for previously wanted pregnancies, which may create a tension with the absolute stance in Response 2.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific exceptions or conditions for late-term abortions beyond the one mentioned in Response 4",
+          "Whether the participant supports any restrictions on abortion access in specific cases"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation49",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant believes abortion should generally be legal but with specific conditions and exceptions.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal in most circumstances.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be legal only before a specific date related to fetal development.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          },
+          {
+            "statement": "Abortion should not be allowed if a woman takes too long to decide.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The participant values a woman's right to her own body but believes there should be limits.",
+            "evidence_response_indices": [
+              3,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports legal abortion in all circumstances but also supports strict deadlines, creating a tension between these positions.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific date for the deadline",
+          "Definition of when an egg becomes a human",
+          "Exact timeframe for 'too long' to decide"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation50",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports abortion as a protected right, emphasizing bodily autonomy and access to healthcare, while acknowledging the complexity of late-term abortions and the need for case-by-case considerations.",
+        "policy_positions": [
+          {
+            "statement": "Abortion, especially in the first trimester, should be a protected right for all those with the ability to get pregnant.",
+            "evidence_response_indices": [
+              1
+            ]
+          },
+          {
+            "statement": "Abortion should be legal and a protected right for all women and those with the potential to carry.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "Abortion before the 24-week mark should be a protected right for women and those able to carry a child.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Late-term abortion should be legal with the advisement of an OBGYN/natal specialist.",
+            "evidence_response_indices": [
+              5
+            ]
+          },
+          {
+            "statement": "Abortions past 24 weeks should not necessarily be illegal - late-term abortion can become a necessity for women whose lives are endangered by their pregnancy.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "Late-term abortion should be looked at case-by-case.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Pregnancy is a beautiful thing, but so is choice. Many pro-life advocates fail to recognize the impact of creating something entirely dependent on you.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "The right to bodily autonomy and the freedom of choice are rights those of us in America are taught are intrinsic.",
+            "evidence_response_indices": [
+              5
+            ]
+          },
+          {
+            "statement": "Reading news stories of teenagers and women with health issues being forced through dangerous, painful pregnancies has also had a massive impact on my opinion.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports late-term abortion on necessity but also acknowledges the ethical/moral dilemma associated with it after the 24-week mark.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Clarification on how the participant defines 'bodily autonomy' in the context of late-term abortions"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation51",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a strong opposition to abortion, influenced by their Catholic faith and personal beliefs about life and choice.",
+        "policy_positions": [
+          {
+            "statement": "The participant broadly supports legal access to abortion, with qualifications described in the cited responses.",
+            "evidence_response_indices": [
+              1,
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be legal only in cases of rape.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is not an option for the participant due to their Catholic faith and personal beliefs about life being a gift.",
+            "evidence_response_indices": [
+              1,
+              3,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports making abortion illegal in all circumstances but also acknowledges that it should be legal in cases of rape.",
+            "evidence_response_indices": [
+              1,
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific exceptions or conditions for when abortion might be allowed beyond rape",
+          "Clarification on whether the participant supports any legal exceptions for health or other reasons"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation52",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a pro-choice stance, emphasizing the importance of individual autonomy and bodily rights, while expressing some nuanced concerns about late-term abortions.",
+        "policy_positions": [
+          {
+            "statement": "The participant broadly supports legal access to abortion, with qualifications described in the cited responses.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Late-term abortions should not be recommended in certain borderline situations.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The person carrying the fetus has a life, personality, and well-being that should be prioritized over a non-existent being.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "Legal protections for abortion would safeguard individual autonomy and prevent government overreach.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports unrestricted abortion but also expresses concerns about late-term procedures, creating a tension in their stance.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for defining 'borderline situations' in late-term abortions",
+          "Clarification on how the participant defines 'fetus almost or fully developed'"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation53",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant has a complex and nuanced view on abortion, with personal reservations and a focus on viability and life-threatening circumstances.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal until the fetus is viable unless the mother and baby's life are in danger.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Late term abortions where the baby could be viable outside the womb should not be legal.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Technology is improving, making it harder to define viability and regulate abortion laws.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant believes that late term abortions should not be legal, but also acknowledges that people should have the right to choose differently as long as the baby would not be viable.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific religious beliefs",
+          "Personal fertility issues details",
+          "Exact definition of 'extreme and life threatening' circumstances"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation54",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a neutral stance on abortion, emphasizing personal autonomy and the right of individuals to make their own decisions, while acknowledging the complexity of the issue and the need for personal freedom.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal in certain circumstances, such as when it is necessary for the health of the mother.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should not be forced by third parties, as there may be unknown circumstances that influence the decision.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The participant believes that individuals should live their lives as they see fit, and that others should not interfere in their decisions.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant expresses a neutral stance on the topic but also supports the legality of abortion in certain cases, which may create a tension between personal neutrality and advocacy for specific circumstances.",
+            "evidence_response_indices": [
+              1,
+              2
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for when abortion is considered necessary or valid",
+          "The participant's views on the role of government or society in regulating abortion"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation55",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant has a generally pro-choice stance but with some conditional reservations.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be allowed.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be restricted if the fetus is overly developed.",
+            "evidence_response_indices": [
+              4,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "A woman should have the right to her own body.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant expresses both support for abortion rights and conditional restrictions based on fetal development.",
+            "evidence_response_indices": [
+              2,
+              4,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for determining when a fetus is 'overly developed'"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation56",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant has a nuanced and complex view on abortion, acknowledging its moral and ethical dilemmas while recognizing the necessity of legal access in specific circumstances.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal in situations that warrant it due to circumstances beyond our control.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be legal in cases of rape, incest, genetic defects, and economic hardship but with an understanding that it should be a choice made quickly and not months into the pregnancy.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is a moral grey zone, with necessity and compassion in conflict with morality and obligation.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges that abortion should be legal in many cases but also believes that it should not be legal in situations where it is used as a 'get out of it quick' situation.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Clarification on the participant's views on the role of the state in regulating abortion",
+          "Details on how the participant defines 'undue economic burdens'"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation57",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant views abortion as a deeply personal and private medical choice, emphasizing bodily autonomy and the emotional weight of the decision. They support legal access to abortion up to viability, with exceptions for specific circumstances, and believe that women should have the right to make decisions about their own bodies without judgment.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal up until viability in every case.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion is immoral and inappropriate past the point of viability, specifically for a healthy child with no life-hindering birth defects.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is a personal and private medical choice that should be accessible as essential healthcare for every woman.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports legal abortion up to viability, but also believes that abortion is immoral past viability for a healthy child, creating a tension in their stance.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Clarification on whether they support exceptions for cases beyond viability in certain circumstances"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation58",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a strongly restrictive view on abortion, emphasizing medical necessity and expressing moral concerns rooted in their upbringing and personal beliefs.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be illegal except in specific cases.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should only be allowed if medically necessary, with specific criteria required for approval.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The participant has a high moral regard for life and was raised Catholic, which influences their stance.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports abortion in cases of rape but is concerned about potential misuse of this exception.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for medical indication",
+          "Definition of 'medically necessary'"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation59",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports the legal availability and accessibility of abortion, emphasizing autonomy, respect for individual stories, and the importance of medical decision-making.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal and readily accessible in all states.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "The participant broadly supports legal access to abortion, with qualifications described in the cited responses.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "A woman has full autonomy over her health and her own body.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports legal accessibility and autonomy, but does not explicitly address potential conflicts between accessibility and state regulations.",
+            "evidence_response_indices": [
+              5,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific exceptions or restrictions to the participant's support for legal accessibility and autonomy."
+        ]
+      }
+    },
+    {
+      "participant_id": "generation60",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a strong anti-abortion stance, believing that abortion is morally wrong and should be illegal in all cases.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be illegal in all cases.",
+            "evidence_response_indices": [
+              1,
+              2,
+              4,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [],
+        "reasoning": [
+          {
+            "statement": "Abortion is morally wrong because it violates the sanctity of life and is seen as a sin.",
+            "evidence_response_indices": [
+              3,
+              4,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [],
+        "missing_information": [
+          "Specific exceptions or conditions under which the participant might consider abortion acceptable",
+          "Clarification on how the participant defines 'hypocrisy' in the context of abortion"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation61",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant has a nuanced and conflicted view on abortion, leaning conservative but acknowledging exceptions, particularly for health risks and specific circumstances.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should generally be illegal as it involves ending a human life.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be permitted in cases of significant health risks to the mother or fetus.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "Abortion should be allowed only at a very early stage of pregnancy.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "Abortion should be allowed if the termination is due to sexual assault, provided it is detected early enough.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Beliefs about abortion are shaped by upbringing and environment, but the participant emphasizes forming their own opinions based on information.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges conflicting views and a difficult topic to address, yet also expresses a clear conservative stance with specific exceptions.",
+            "evidence_response_indices": [
+              1,
+              2
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific details on the participant's understanding of the health risks or the exact stage of pregnancy considered 'early'."
+        ]
+      }
+    },
+    {
+      "participant_id": "generation62",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant expresses discomfort with the topic of abortion, acknowledges it as a personal choice, and recognizes the complexity of the issue with specific exceptions.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be a personal choice.",
+            "evidence_response_indices": [
+              1,
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should not be used as a form of birth control.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion should be allowed in cases where the fetus has severe medical conditions.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges discomfort with abortion while also supporting its legality in certain circumstances.",
+            "evidence_response_indices": [
+              1,
+              2
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for what constitutes a valid reason for abortion",
+          "Clarification on the participant's stance on the role of society in regulating abortion"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation63",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant opposes restrictions on abortion rights, emphasizing the importance of separating religion from politics and viewing abortion as a medical procedure.",
+        "policy_positions": [
+          {
+            "statement": "The participant broadly supports legal access to abortion, with qualifications described in the cited responses.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Late-term abortions should be allowed for medical reasons.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Religion has no place in politics and should not influence abortion policy.",
+            "evidence_response_indices": [
+              2,
+              3,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges that late-term abortions are rare but supports them for medical reasons, which may conflict with the idea that there are 'no circumstances' like this.",
+            "evidence_response_indices": [
+              4,
+              1
+            ]
+          }
+        ],
+        "missing_information": []
+      }
+    },
+    {
+      "participant_id": "generation64",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports abortion access as a fundamental right for women, emphasizing personal agency and the well-being of the mother.",
+        "policy_positions": [
+          {
+            "statement": "The participant broadly supports legal access to abortion, with qualifications described in the cited responses.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Late-term abortions may be considered if the child is not viable or if the mother's health is at risk.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is necessary for women to have control over their bodies and ensure the child's conditions for success.",
+            "evidence_response_indices": [
+              3,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports legal access in almost all circumstances but also acknowledges late-term cases where viability is questionable, which may create tension in policy interpretation.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific exceptions or restrictions beyond viability or medical necessity",
+          "Clarification on how the well-being of the mother is prioritized in legal frameworks"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation65",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant is pro-choice and believes abortion should be legal and accessible as a matter of healthcare and personal autonomy. They emphasize the importance of separating religious beliefs from government policy and support the right of women to make decisions about their own bodies.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be fully legal and accessible as a matter of healthcare.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Late-term abortions should be allowed when the baby has no expectancy to live or the mother's life is in danger.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is a woman's healthcare right and should not be restricted by government or religious beliefs.",
+            "evidence_response_indices": [
+              1,
+              3,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports a pro-choice stance while also expressing personal religious beliefs that conflict with this position.",
+            "evidence_response_indices": [
+              1,
+              3
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific exceptions or conditions for legal access to abortion",
+          "Views on the role of government in regulating healthcare"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation66",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant strongly supports abortion rights, emphasizing the importance of bodily autonomy and the risks associated with pregnancy and childbirth. They express concern about the potential loss of abortion rights and the impact on women's health and well-being.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal in all cases.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be done before the baby is born.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Forcing a woman to carry a pregnancy is akin to cruel and unusual punishment.",
+            "evidence_response_indices": [
+              3,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports abortion in all cases but also emphasizes that it must be done before the baby is born.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific exceptions or conditions for the 'all cases' position",
+          "Clarification on the legal status of abortion in the participant's state"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation67",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant has a complex and nuanced view on abortion, balancing the value of life with exceptions for specific circumstances, while also expressing uncertainty about the weight of their opinion due to their gender.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be illegal in most cases after the first detectable heartbeat.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Exceptions should be made in cases of rape or when the mother's life is at risk.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Life should be given a chance, even for the unborn, as the world is flawed but still beautiful.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports allowing abortion in some circumstances (rape, maternal health) while also believing that life should be given a chance, creating a tension between these positions.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "missing_information": []
+      }
+    },
+    {
+      "participant_id": "generation68",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports a woman's right to choose an abortion, emphasizing personal autonomy and the importance of not judging others' decisions. They acknowledge the complexity of the issue and the need for individual choice, while expressing personal discomfort with the topic.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal and accessible to women regardless of their reasons.",
+            "evidence_response_indices": [
+              1,
+              2,
+              4,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "The participant does not express specific conditions or restrictions on when abortion should be allowed.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The participant's reasoning is based on personal autonomy, the right to make decisions about one's own body, and the belief that society should not interfere in personal choices.",
+            "evidence_response_indices": [
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant's emphasis on personal autonomy and non-judgment conflicts with their acknowledgment of personal discomfort with the topic and their own family's experiences with pregnancy and loss.",
+            "evidence_response_indices": [
+              1,
+              3
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific conditions or restrictions on when abortion should be allowed"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation69",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant is pro-life and believes abortion should be illegal, with exceptions for severe circumstances such as rape, incest, threats to the mother's life, or severe fetal abnormalities. They express sadness about the normalization of abortion and emphasize the potential value of unborn lives.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be illegal.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should only be allowed in cases of rape, incest, severe fetal abnormalities, or when the mother's life is in danger.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is not a form of birth control and should be treated as a last resort.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant is unsure about the appropriateness of abortion in cases of severe fetal abnormalities, despite believing it should be illegal in most circumstances.",
+            "evidence_response_indices": [
+              4,
+              2
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for determining severe fetal abnormalities",
+          "The participant's stance on the moral status of the fetus in all cases"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation70",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant discusses their limited experience with unwanted pregnancies and the topic of abortion, expressing discomfort and a focus on personal circumstances. They support the legality of abortion but with specific conditions, and their views are influenced by personal experiences and beliefs.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal.",
+            "evidence_response_indices": [
+              2,
+              3,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be illegal when a woman is far enough along in her pregnancy that the gender can be determined.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Personal experiences and beliefs, including past views as a Christian, influence their stance on abortion.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports the legality of abortion but also suggests it should be illegal in certain circumstances, creating a tension in their position.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Clarification on the exact timing or criteria for determining when the gender can be determined"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation71",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant believes abortion should be legal and accessible, emphasizing women's autonomy and the right to make decisions about their bodies. They acknowledge the sensitivity of the issue and the importance of personal choice, while also recognizing the need for exceptions in specific circumstances.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal and accessible to women.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be legal in cases of health reasons, severe inconveniences, or rape.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Women should have the right to make decisions about their bodies and their futures.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges the sensitivity of the issue and the need to keep opinions private, which may conflict with advocating for abortion rights.",
+            "evidence_response_indices": [
+              1,
+              2
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for defining 'uncontrollable circumstances' in response 4",
+          "Clarification on how the participant defines 'malicious intent' in response 4"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation72",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports the legality of abortion and emphasizes a woman's right to make decisions about her body. They acknowledge the complexity of the issue and the potential for disagreement.",
+        "policy_positions": [
+          {
+            "statement": "Abortions should be legal.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion may not be appropriate if the woman is days away from delivering a healthy full-term baby.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "A woman has the right to make decisions about her body, and this belief aligns with their other political opinions.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports the legality of abortion in general but also suggests exceptions in specific circumstances.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for determining when an abortion is appropriate beyond the full-term exception",
+          "Clarification on the participant's stance on late-term abortions"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation73",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant views abortion as murder in most circumstances but acknowledges exceptions for life-threatening situations or extreme trauma. They believe it should be illegal except in specific cases where the mother's health or life is at risk, or when the fetus is not viable.",
+        "policy_positions": [
+          {
+            "statement": "Abortion is murder and morally wrong in most circumstances.",
+            "evidence_response_indices": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be allowed if it is necessary to save the mother's life or in cases of extreme trauma (e.g., rape of an underage girl).",
+            "evidence_response_indices": [
+              1,
+              2,
+              4,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is considered murder because it ends the life of an innocent and helpless being.",
+            "evidence_response_indices": [
+              1,
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges that some people in their circle disagree with their views, but this does not directly contradict their stated policy positions.",
+            "evidence_response_indices": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for determining when a fetus is not viable or cancerous",
+          "Clarification on how the participant defines 'extreme trauma'"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation74",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant has a neutral stance on abortion, expressing indifference toward the topic while supporting its legality in the United States due to freedom and individual autonomy.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal in the United States.",
+            "evidence_response_indices": [
+              1,
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should not be used for sex selection.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Legalizing abortion is tied to the principle of freedom and individual autonomy.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [],
+        "missing_information": [
+          "Specific circumstances under which the participant would support or oppose abortion",
+          "Views on the role of government in reproductive health",
+          "Opinions on the moral status of the fetus"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation75",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports the right to choose abortion, particularly in cases of sexual assault, and believes that individuals should have the autonomy to make decisions about their bodies. They also express uncertainty about late-term abortions and the ethical implications of such decisions.",
+        "policy_positions": [
+          {
+            "statement": "The participant is pro-choice and believes that abortion should be legal.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "The participant believes that abortion should be allowed in cases of sexual assault but is uncertain about other circumstances.",
+            "evidence_response_indices": [
+              2,
+              3
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The participant believes that the right to choose abortion is a human right and that individuals should have the autonomy to make decisions about their bodies.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports the right to choose abortion in cases of sexual assault but expresses uncertainty about late-term abortions, which may create a tension in their stance.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "The participant does not specify their views on abortion in cases other than sexual assault or late-term pregnancies."
+        ]
+      }
+    },
+    {
+      "participant_id": "generation76",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports abortion in certain circumstances but does not engage in discussions about it.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal in most instances, especially in very early pregnancy or cases of rape and incest.",
+            "evidence_response_indices": [
+              1,
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should not be allowed if the pregnancy is too far along, as it is considered too late in the process.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Education and access to proper protective devices are important to prevent unintended pregnancies.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports abortion in early pregnancy but also mentions that it should not be allowed if the pregnancy is too far along, which could be a contradiction if the 'too far along' refers to early stages.",
+            "evidence_response_indices": [
+              1,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific time limits for 'too far along' or 'very early pregnancy' are not provided.",
+          "Clarification on the exact circumstances where abortion is considered acceptable or restricted."
+        ]
+      }
+    },
+    {
+      "participant_id": "generation77",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant feels strongly about abortion, expressing concern and sadness about the topic, and believes it should be legal under certain conditions while also acknowledging the complexity and moral considerations involved.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal under specific circumstances.",
+            "evidence_response_indices": [
+              1,
+              2,
+              3,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be legal until 16 weeks of pregnancy.",
+            "evidence_response_indices": [
+              2,
+              3,
+              5
+            ]
+          },
+          {
+            "statement": "Abortion should be legal in cases of rape or when a woman chooses not to have a baby.",
+            "evidence_response_indices": [
+              2,
+              3
+            ]
+          },
+          {
+            "statement": "Abortion should be illegal after 14 weeks or more, with other options like adoption being discussed.",
+            "evidence_response_indices": [
+              2,
+              4,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion should be legal to prevent women from seeking unsafe procedures when it is illegal.",
+            "evidence_response_indices": [
+              3
+            ]
+          },
+          {
+            "statement": "Abortion should be illegal after the fetus is full term or developed, as it is considered a right of the baby.",
+            "evidence_response_indices": [
+              4,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports legal abortion up to 16 weeks but also believes it should be illegal after 20 weeks, creating a tension in the proposed legal framework.",
+            "evidence_response_indices": [
+              2,
+              4,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific reasons for the 16-week and 20-week thresholds",
+          "Clarification on the definition of 'full term' and 'developed'"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation78",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant views abortion as a deeply personal and moral issue, not something to be discussed publicly or legislated. They emphasize individual conscience and reject societal or legal frameworks for determining its morality.",
+        "policy_positions": [
+          {
+            "statement": "Abortion is a personal moral belief that individuals must resolve on their own.",
+            "evidence_response_indices": [
+              2,
+              3
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "The participant acknowledges the complexity of the issue and the need for nuanced consideration beyond simplistic moral beliefs.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The participant believes that abortion is a personal issue and that their opinion does not matter in determining its legality or morality.",
+            "evidence_response_indices": [
+              1,
+              4
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant expresses both a belief in the sanctity of human life and a critical view of the legal status of abortion, which may reflect a tension between personal morality and societal norms.",
+            "evidence_response_indices": [
+              3,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for when the participant would support or oppose abortion",
+          "Views on the role of government in personal moral decisions"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation79",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant believes that abortion should be a personal choice and legal, with some moral considerations depending on specific circumstances.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal and accessible as a personal choice.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion may be permissible in cases where the fetus has severe health defects.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion legality is important to prevent unsafe procedures and protect women's health.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges moral uncertainty but supports legal access, which may create tension between personal morality and legal policy.",
+            "evidence_response_indices": [
+              5,
+              1
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for determining moral acceptability",
+          "Views on the role of government in regulating abortion",
+          "Stance on abortion in cases of rape or incest"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation80",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports a woman's right to make decisions about her own body and pregnancy, emphasizing personal autonomy and the physical risks of pregnancy. They are pro-choice but have nuanced views on the circumstances under which abortions should be allowed.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be a personal decision made by the woman, not by others.",
+            "evidence_response_indices": [
+              1,
+              2,
+              3,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be accessible before a certain timeframe, as decisions should be made earlier for ethical reasons.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Pregnancy is a personal experience that affects only the woman, and no one else should have control over her body.",
+            "evidence_response_indices": [
+              1,
+              3,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant is neither for nor against abortion, yet emphasizes the importance of personal autonomy and the risks of pregnancy.",
+            "evidence_response_indices": [
+              5,
+              1,
+              3
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific timeframe for abortions",
+          "Views on late-term abortions",
+          "Stance on exceptions for rape, health, or fetal abnormalities"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation81",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports abortion in certain circumstances, particularly when it is unwanted and may cause social stress, and believes it should be legal and not stigmatized.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal and society should not hate people for that.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion is mostly done when it is unwanted and might put them under a lot of social stress.",
+            "evidence_response_indices": [
+              1
+            ]
+          },
+          {
+            "statement": "Abortion is legal if it will help the economic situation.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Life experience from others influences the participant's views.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports abortion in some cases but also believes it will save a lot of lives, which may imply a tension between allowing access and preventing unwanted pregnancies.",
+            "evidence_response_indices": [
+              1,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for when abortion is considered legal or when it will help the economic situation.",
+          "Clarification on whether the participant believes abortion should be accessible in all cases or only under specific conditions."
+        ]
+      }
+    },
+    {
+      "participant_id": "generation82",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant has a nuanced stance on abortion, emphasizing specific circumstances as valid reasons while expressing discomfort with the political nature of the issue and a general disapproval of abortion for convenience.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal in specific circumstances such as rape, danger to the mother, and genetic conditions.",
+            "evidence_response_indices": [
+              2,
+              4,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Late-term abortion should be limited to cases of danger to the mother's life or genetic conditions.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion should not be used randomly due to personal negligence in contraception.",
+            "evidence_response_indices": [
+              2,
+              4,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant expresses discomfort with the political nature of abortion while also holding a clear policy position on its legality in specific cases.",
+            "evidence_response_indices": [
+              1,
+              2,
+              4,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific time frame for 'late term' abortion",
+          "Clarification on whether the participant supports access to contraception or education on its use"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation83",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant has a strong opposition to abortion, with limited exceptions, and emphasizes the importance of personal responsibility and the moral status of life from conception.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should not be a viable option in most cases.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion is only permissible in limited circumstances and for a limited time after conception.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Life begins at conception, and abortion is morally wrong due to the preventable nature of unintended pregnancies.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges the need for some allowances for political reasons but maintains a strong opposition to abortion in most cases.",
+            "evidence_response_indices": [
+              5,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for the limited circumstances where abortion is permissible",
+          "The participant's stance on the role of government in regulating abortion"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation84",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant broadly supports legal access to abortion, with qualifications described in the cited responses.",
+        "policy_positions": [
+          {
+            "statement": "Women should have the right to make decisions about their own bodies.",
+            "evidence_response_indices": [
+              1,
+              2,
+              4
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be legal in all situations.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The participant believes that women should have the freedom to make decisions about their own bodies, especially in cases of rape or victimization.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant's belief that abortion should be legal in all situations conflicts with their acknowledgment of personal ideals potentially influencing their perspective.",
+            "evidence_response_indices": [
+              4,
+              2
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific exceptions or conditions under which the participant might support restrictions on abortion."
+        ]
+      }
+    },
+    {
+      "participant_id": "generation85",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant is a Christian who believes that all human life should be cherished from conception, but acknowledges specific exceptions to the pro-life stance.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal in all states, but only under certain circumstances.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be allowed if a doctor deems it medically necessary, if there will be long-lasting effects from not aborting, or if a psychologist determines that carrying a baby to term would be traumatic for a woman who was raped.",
+            "evidence_response_indices": [
+              1,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The participant believes that every human life should be cherished from conception, even if the life has not been born yet.",
+            "evidence_response_indices": [
+              1,
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant expresses uncertainty about the trauma of rape-related pregnancies while also believing that the unborn child has a right to life.",
+            "evidence_response_indices": [
+              1,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Clarification on how the participant defines 'trauma' in the context of rape-related pregnancies"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation86",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant is pro-choice and emphasizes the importance of personal choice, medical necessity, and logical reasoning in abortion decisions. They acknowledge the complexity of the issue and the need for a nuanced approach.",
+        "policy_positions": [
+          {
+            "statement": "The participant broadly supports legal access to abortion, with qualifications described in the cited responses.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be considered when there are medical complications that put the mother or child's life in peril.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "Abortion should be allowed if the mother does not want to be a parent, especially if there are risks to her health or the child's well-being.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The participant believes that personal choice and the ability to avoid bad parenting are valid reasons for abortion.",
+            "evidence_response_indices": [
+              2
+            ]
+          },
+          {
+            "statement": "The participant favors logic and facts over belief, and thinks that society should approach the topic with fresh eyes and rationality.",
+            "evidence_response_indices": [
+              3,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant expresses uncertainty about their stance in situations where the mother's life is not in danger but there is a slight chance the child might survive, which conflicts with their general pro-choice stance.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for what constitutes 'bad parenting' or 'resources to parent the child'"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation87",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant has a nuanced and conditional stance on abortion, emphasizing bodily autonomy and health considerations while acknowledging the complexity and sensitivity of the issue.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal and accessible to allow individuals to make informed decisions about their own bodies and health.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "The legality of abortion depends on circumstances such as the stage of pregnancy, the health of the mother, cases of rape or incest, and situations where the fetus has severe abnormalities.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Beliefs about abortion are shaped by personal values around bodily autonomy, individual choice, and ethical considerations about life and health.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "There is a tension between the participant's belief in legal access to abortion and their uncertainty about its appropriateness in late-term pregnancies where the fetus could potentially survive outside the womb.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Clarification on how the participant would balance the rights and health of the mother with the potential viability of the fetus in late-term pregnancies."
+        ]
+      }
+    },
+    {
+      "participant_id": "generation88",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports a woman's right to choose abortion, emphasizing bodily autonomy and personal decision-making. They express discomfort with late-term abortions but do not advocate for a complete ban.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal and accessible to women.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Late-term abortions are considered morally problematic and should be restricted.",
+            "evidence_response_indices": [
+              2,
+              4,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Personal autonomy and bodily rights are central to the participant's views on abortion.",
+            "evidence_response_indices": [
+              1,
+              2,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports late-term abortion as a choice for the woman but personally finds it morally wrong, creating a tension between personal judgment and support for autonomy.",
+            "evidence_response_indices": [
+              2,
+              4,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for defining a 'defineable child' in the womb",
+          "The participant's stance on non-medical late-term abortions",
+          "The participant's views on exceptions for medical necessity or rape"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation89",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant believes abortion should be legal and not a political matter, emphasizing individual choice and the impact on a woman's health and well-being.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal and not a political matter.",
+            "evidence_response_indices": [
+              1,
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion is inappropriate when the child has developed at the end of the mother's pregnancy.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion decisions should be left to those directly affected, as they are traumatic and isolating.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports individual choice but also specifies a condition where abortion is inappropriate, which may create tension in policy interpretation.",
+            "evidence_response_indices": [
+              1,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for determining when a child is 'developed' at the end of the pregnancy",
+          "Clarification on how the participant defines 'traumatizing and isolating' experiences"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation90",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant supports abortion access and views it as a personal medical decision, while acknowledging the complexity and emotional weight of the issue.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal and between a woman and her doctor",
+            "evidence_response_indices": [
+              1,
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should not involve government oversight",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Beliefs are shaped by personal experiences and circumstances",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports abortion access but also acknowledges the emotional and personal nature of the decision",
+            "evidence_response_indices": [
+              1,
+              3
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific exceptions or conditions under which the participant would support restrictions"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation91",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant believes abortion is not inherently bad and should be legal, with a focus on societal understanding, empathy, and support for alternative options.",
+        "policy_positions": [
+          {
+            "statement": "Abortion is not inherently bad and should be treated similarly to contraception.",
+            "evidence_response_indices": [
+              1
+            ]
+          },
+          {
+            "statement": "Abortion should be legal.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be accompanied by societal understanding, empathy, and support for alternative options like adoption and parenting resources.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Personal values and principles shape the participant's belief about abortion.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [],
+        "missing_information": [
+          "Specific conditions or restrictions on when abortion should be legal or accessible."
+        ]
+      }
+    },
+    {
+      "participant_id": "generation92",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant believes abortion is morally wrong and equates it to murder, but acknowledges specific circumstances where it may be considered, such as rape or when a girl is impregnated by her biological father.",
+        "policy_positions": [
+          {
+            "statement": "Abortion is a wrong thing to do despite the situation a woman finds herself",
+            "evidence_response_indices": [
+              1
+            ]
+          },
+          {
+            "statement": "Abortion should be illegal to protect the life of both mothers and babies",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be illegal in all cases except when a woman is a victim of rape",
+            "evidence_response_indices": [
+              3
+            ]
+          },
+          {
+            "statement": "Abortion should be illegal in cases where a girl is impregnated by her biological father",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is equated to murder and causes harm to the baby",
+            "evidence_response_indices": [
+              1,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports making abortion illegal in all cases but also acknowledges specific circumstances where it may be considered, creating a tension between absolute opposition and conditional exceptions",
+            "evidence_response_indices": [
+              1,
+              2,
+              3,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for when abortion is allowed in cases of rape or impregnation by the biological father",
+          "Clarification on whether the participant supports exceptions for other circumstances beyond rape or impregnation by the biological father"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation93",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant expresses strong opposition to abortion, emphasizing emotional distress and negative consequences, while also acknowledging the complexity of personal circumstances and the need for education.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be illegal",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "The participant broadly supports legal access to abortion, with qualifications described in the cited responses.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion has detrimental effects on humans and causes most deaths",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports making abortion illegal but acknowledges the emotional and complex nature of personal circumstances",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific exceptions or conditions under which the participant might support abortion",
+          "Clarification on the role of education in preventing abortion"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation94",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a strong opposition to abortion, viewing it as morally and religiously wrong, and believes it should be illegal.",
+        "policy_positions": [
+          {
+            "statement": "Access to abortion should be tightened.",
+            "evidence_response_indices": [
+              1
+            ]
+          },
+          {
+            "statement": "Abortion should be illegal.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be illegal under all circumstances.",
+            "evidence_response_indices": [
+              2,
+              3,
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is morally wrong and violates the sanctity of life.",
+            "evidence_response_indices": [
+              2,
+              3,
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [],
+        "missing_information": [
+          "Specific exceptions or conditions under which the participant might consider abortion acceptable."
+        ]
+      }
+    },
+    {
+      "participant_id": "generation95",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant believes abortion should be accessible and legal for most individuals, with some exceptions for late-term procedures. They emphasize the importance of treating abortion as a form of healthcare and promoting positive narratives around it.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal for all, except in specific late-term cases.",
+            "evidence_response_indices": [
+              1,
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Late-term abortions should only be performed under extreme circumstances, such as maternal or fetal death.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion should be treated as legal, protected healthcare to ensure safety and accessibility for individuals with uteruses.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports late-term abortions in cases of fetal death but also acknowledges the sensitivity of the issue, which may create tension in policy design.",
+            "evidence_response_indices": [
+              2,
+              4
+            ]
+          }
+        ],
+        "missing_information": []
+      }
+    },
+    {
+      "participant_id": "generation96",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant expresses a general support for a woman's right to choose, with emphasis on autonomy and personal choice, while showing limited engagement with the topic and some resistance to external influence.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal and the woman should have the power of choice.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "The decision should not be influenced by religious beliefs or government laws.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "The decision should be based on the woman's self-survival and general human instinct.",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges the irrelevance of their personal opinion in others' pregnancies, which may conflict with their emphasis on personal autonomy.",
+            "evidence_response_indices": [
+              4,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific exceptions or conditions under which the participant would support restrictions",
+          "Clarification on how the participant defines 'informed choice'"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation97",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant acknowledges the emotional and polarizing nature of abortion and emphasizes the importance of personal choice and support for women, while also highlighting the need for legal access to protect maternal rights.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal to protect the mother's rights.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Legal access to abortion is dependent upon each personal situation and difficulties.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion should be legal to ensure people who need life-saving procedures are not denied their rights.",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant supports legal access to abortion while acknowledging the need for support for pregnant mothers, which may imply a tension between legal access and the provision of support.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for legal access or support mechanisms",
+          "Clarification on the role of personal circumstances in determining access",
+          "Details on how the participant defines 'life-saving procedures'"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation98",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant expresses discomfort with the topic of abortion and holds a nuanced stance on its legality, influenced by personal experience and societal factors.",
+        "policy_positions": [
+          {
+            "statement": "Abortion should be legal depending on the circumstances of the situation",
+            "evidence_response_indices": [
+              2
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be considered only if a person knowingly gets pregnant and chooses to continue with the pregnancy",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Beliefs about abortion are shaped by personal experience, outlook, and observations of others",
+            "evidence_response_indices": [
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges the complexity of abortion, including situations like rape and underage pregnancy, but also expresses discomfort with the topic, creating a tension between acceptance and unease",
+            "evidence_response_indices": [
+              1,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for determining legal circumstances",
+          "Clarification on how societal factors influence the participant's stance"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation99",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant expresses a complex and nuanced view on abortion, acknowledging its emotional and psychological impact while supporting its legality in certain circumstances.",
+        "policy_positions": [
+          {
+            "statement": "Abortions should be legal in cases of rape and unplanned pregnancies.",
+            "evidence_response_indices": [
+              2,
+              3,
+              4
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be considered for individuals facing health risks or complications.",
+            "evidence_response_indices": [
+              4
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is seen as a necessary option for those who did not wish to become pregnant, including cases of rape or lack of awareness.",
+            "evidence_response_indices": [
+              2,
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [
+          {
+            "statement": "The participant acknowledges both the necessity of abortion in certain cases and the societal diversity of opinions on the issue, which may create tension in policy design.",
+            "evidence_response_indices": [
+              2,
+              5
+            ]
+          }
+        ],
+        "missing_information": [
+          "Specific criteria for determining when abortions should be allowed beyond rape and unplanned pregnancies",
+          "Clarification on the participant's stance on health-related restrictions",
+          "Whether the participant supports access to abortion in all cases or only under specific conditions"
+        ]
+      }
+    },
+    {
+      "participant_id": "generation100",
+      "summary": {
+        "schema_version": "abortion-participant-summary-v1",
+        "overall_summary": "The participant holds a strong opposition to abortion, grounded in religious beliefs, with specific exceptions for cases where the mother's life is endangered.",
+        "policy_positions": [
+          {
+            "statement": "Abortion is immorally wrong.",
+            "evidence_response_indices": [
+              1,
+              2,
+              3,
+              5
+            ]
+          }
+        ],
+        "conditions_restrictions": [
+          {
+            "statement": "Abortion should be illegal except when the mother's life is endangered due to complications of childbirth.",
+            "evidence_response_indices": [
+              5
+            ]
+          }
+        ],
+        "reasoning": [
+          {
+            "statement": "Abortion is considered morally wrong because it goes against the beliefs of the bible and the Word of God.",
+            "evidence_response_indices": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "contradictions_or_tensions": [],
+        "missing_information": []
+      }
+    }
+  ],
+  "failures": []
+}

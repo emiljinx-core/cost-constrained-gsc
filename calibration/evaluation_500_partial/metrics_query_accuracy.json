@@ -1,0 +1,70 @@
+{
+  "label": "MODEL-BASED approval scores from the qwen3:8b Disc query - not human ground truth",
+  "human_ground_truth_available": false,
+  "scored_pairs_total": 4603,
+  "score_scale": {
+    "min_observed": 1,
+    "max_observed": 6,
+    "expected_range": [
+      1,
+      6
+    ]
+  },
+  "out_of_range_scores": 0,
+  "score_distribution_counts": {
+    "1": 430,
+    "2": 1761,
+    "3": 18,
+    "4": 703,
+    "5": 656,
+    "6": 1035
+  },
+  "score_distribution_percent": {
+    "1": 9.342,
+    "2": 38.258,
+    "3": 0.391,
+    "4": 15.273,
+    "5": 14.252,
+    "6": 22.485
+  },
+  "score_summary": {
+    "count": 4603,
+    "mean": 3.5429067999131,
+    "median": 4.0,
+    "stdev": 1.791274660147676,
+    "min": 1.0,
+    "max": 6.0
+  },
+  "per_candidate_mean_score": {
+    "count": 156,
+    "mean": 3.3726533945159916,
+    "median": 3.3333333333333335,
+    "stdev": 0.5709989702526392,
+    "min": 2.0,
+    "max": 5.01
+  },
+  "per_candidate_modal_score_share": {
+    "count": 156,
+    "mean": 0.4966381220791676,
+    "median": 0.42857142857142855,
+    "stdev": 0.1824630190224982,
+    "min": 0.2682926829268293,
+    "max": 1.0
+  },
+  "per_candidate_supporter_fraction": {
+    "count": 156,
+    "mean": 0.1622362582383966,
+    "median": 0.14285714285714285,
+    "stdev": 0.1303306832880499,
+    "min": 0.0,
+    "max": 0.7
+  },
+  "consistency": {
+    "unique_statements_scored": 154,
+    "statements_scored_more_than_once": 2,
+    "cached_score_pairs_checked": 4603,
+    "cached_score_conflicts": 0,
+    "note": "Repeated statements reuse the score_cache, so identical scores are guaranteed by construction; this is NOT an independent test-retest reliability measurement. No repeated independent scoring calls exist."
+  },
+  "interpretation_caveat": "These figures describe the LLM scorer's output distribution and internal concentration only. No human ratings exist in this project, so no accuracy relative to ground truth, no BJR/cBJR guarantee, and no calibration against human preferences can be claimed."
+}

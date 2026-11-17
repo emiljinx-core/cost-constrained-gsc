@@ -1,0 +1,23 @@
+{
+  "total_budget_words": 500,
+  "checkpoint_budget_remaining": 141,
+  "checkpoint_implied_consumed": 359,
+  "sum_selected_statement_word_counts": 359,
+  "last_selection_cumulative_consumed": 359,
+  "last_selection_cumulative_remaining": 141,
+  "utilisation_percent": 71.8,
+  "words_remaining_percent": 28.2,
+  "reconciliation": {
+    "consumed_matches_checkpoint_implied": true,
+    "selected_word_counts_match_count_words": true,
+    "cumulative_field_matches_sum": true
+  },
+  "word_count_per_statement": {
+    "count": 18,
+    "mean": 19.944444444444443,
+    "median": 22.5,
+    "stdev": 9.320895073292064,
+    "min": 5.0,
+    "max": 33.0
+  }
+}

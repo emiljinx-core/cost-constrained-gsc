@@ -1,0 +1,231 @@
+{
+  "strategy": "nearest_neighbor",
+  "configuration": {
+    "base_random_seed": 0,
+    "overlap_allowed": true,
+    "experiments": [
+      {
+        "group_size": 5,
+        "n_groups": 2,
+        "random_seed": 0,
+        "distance": "cosine_distance",
+        "overlap_allowed": true
+      },
+      {
+        "group_size": 10,
+        "n_groups": 2,
+        "random_seed": 1,
+        "distance": "cosine_distance",
+        "overlap_allowed": true
+      }
+    ]
+  },
+  "embedding_metadata": {
+    "schema_version": "abortion-participant-embeddings-v1",
+    "model": "qwen3-embedding:0.6b",
+    "provider": "ollama",
+    "dimensions": 1024,
+    "representation_version": "abortion-policy-summary-v1",
+    "participant_count": 100,
+    "successful_count": 100,
+    "failed_count": 0
+  },
+  "experiments": [
+    {
+      "group_size": 5,
+      "groups": [
+        {
+          "group_index": 0,
+          "anchor_id": "generation50",
+          "participant_ids": [
+            "generation50",
+            "generation13",
+            "generation8",
+            "generation34",
+            "generation64"
+          ],
+          "size": 5,
+          "members": [
+            {
+              "participant_id": "generation50",
+              "cosine_distance": 4.440892098500626e-16
+            },
+            {
+              "participant_id": "generation13",
+              "cosine_distance": 0.17232591141731268
+            },
+            {
+              "participant_id": "generation8",
+              "cosine_distance": 0.18945593370951663
+            },
+            {
+              "participant_id": "generation34",
+              "cosine_distance": 0.193253217711168
+            },
+            {
+              "participant_id": "generation64",
+              "cosine_distance": 0.20010832774909826
+            }
+          ]
+        },
+        {
+          "group_index": 1,
+          "anchor_id": "generation98",
+          "participant_ids": [
+            "generation98",
+            "generation70",
+            "generation99",
+            "generation62",
+            "generation90"
+          ],
+          "size": 5,
+          "members": [
+            {
+              "participant_id": "generation98",
+              "cosine_distance": 2.220446049250313e-16
+            },
+            {
+              "participant_id": "generation70",
+              "cosine_distance": 0.1542900768727854
+            },
+            {
+              "participant_id": "generation99",
+              "cosine_distance": 0.17536479054169685
+            },
+            {
+              "participant_id": "generation62",
+              "cosine_distance": 0.19104208952363444
+            },
+            {
+              "participant_id": "generation90",
+              "cosine_distance": 0.21010738077269908
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_size": 10,
+      "groups": [
+        {
+          "group_index": 0,
+          "anchor_id": "generation18",
+          "participant_ids": [
+            "generation18",
+            "generation52",
+            "generation88",
+            "generation34",
+            "generation75",
+            "generation17",
+            "generation16",
+            "generation48",
+            "generation35",
+            "generation9"
+          ],
+          "size": 10,
+          "members": [
+            {
+              "participant_id": "generation18",
+              "cosine_distance": 0.0
+            },
+            {
+              "participant_id": "generation52",
+              "cosine_distance": 0.12586895485436855
+            },
+            {
+              "participant_id": "generation88",
+              "cosine_distance": 0.14019607495899655
+            },
+            {
+              "participant_id": "generation34",
+              "cosine_distance": 0.15744716704114392
+            },
+            {
+              "participant_id": "generation75",
+              "cosine_distance": 0.17161386515373322
+            },
+            {
+              "participant_id": "generation17",
+              "cosine_distance": 0.18499901745253378
+            },
+            {
+              "participant_id": "generation16",
+              "cosine_distance": 0.18708940217308534
+            },
+            {
+              "participant_id": "generation48",
+              "cosine_distance": 0.1876012563716526
+            },
+            {
+              "participant_id": "generation35",
+              "cosine_distance": 0.18760391368813378
+            },
+            {
+              "participant_id": "generation9",
+              "cosine_distance": 0.19546533214277173
+            }
+          ]
+        },
+        {
+          "group_index": 1,
+          "anchor_id": "generation73",
+          "participant_ids": [
+            "generation73",
+            "generation92",
+            "generation29",
+            "generation42",
+            "generation69",
+            "generation100",
+            "generation23",
+            "generation22",
+            "generation7",
+            "generation45"
+          ],
+          "size": 10,
+          "members": [
+            {
+              "participant_id": "generation73",
+              "cosine_distance": 1.1102230246251565e-16
+            },
+            {
+              "participant_id": "generation92",
+              "cosine_distance": 0.14178704358922645
+            },
+            {
+              "participant_id": "generation29",
+              "cosine_distance": 0.16979041905406578
+            },
+            {
+              "participant_id": "generation42",
+              "cosine_distance": 0.17978081998415574
+            },
+            {
+              "participant_id": "generation69",
+              "cosine_distance": 0.18812735420189197
+            },
+            {
+              "participant_id": "generation100",
+              "cosine_distance": 0.1950184578993731
+            },
+            {
+              "participant_id": "generation23",
+              "cosine_distance": 0.20778088111115733
+            },
+            {
+              "participant_id": "generation22",
+              "cosine_distance": 0.21156133305936542
+            },
+            {
+              "participant_id": "generation7",
+              "cosine_distance": 0.2205135501094706
+            },
+            {
+              "participant_id": "generation45",
+              "cosine_distance": 0.22848256560874758
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

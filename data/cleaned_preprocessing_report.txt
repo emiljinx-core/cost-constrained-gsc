@@ -1,0 +1,27 @@
+Cleaned PROSE generation dataset preprocessing report
+====================================================
+
+Input source file: \\?\UNC\wsl.localhost\Ubuntu-24.04\home\emil-jinu\GSC_Research\gsc_abortion\generative_social_choice\data\survey_data\abortion_generation_20240808_cleaned.csv
+Existing raw PROSE file retained unchanged: \\?\UNC\wsl.localhost\Ubuntu-24.04\home\emil-jinu\GSC_Research\prose_abortion_dataset\abortion_generation_prose.csv
+Output cleaned file: \\?\UNC\wsl.localhost\Ubuntu-24.04\home\emil-jinu\GSC_Research\prose_abortion_dataset\abortion_generation_prose_cleaned.csv
+Transformation method:
+- Selected only the five LONGTEXT rows per generation participant.
+- Removed HTML tags from question_text using Python's HTMLParser.
+- Preserved question wording and inserted every response text unchanged.
+- Kept one row per participant with exactly user_id and data columns.
+- Excluded LONGTEXT_CHOICE rows, ratings, explanations, and validation participants.
+
+Validation results:
+- Output rows: 100
+- Unique output IDs: 100
+- Duplicate IDs: 0
+- Empty data fields: 0
+- Source responses per participant: [5]
+- Every source response preserved verbatim: True
+- HTML tags removed from question sections: True
+- Columns exactly ['user_id', 'data']: True
+- Original source changed: False
+- Existing raw derived CSV changed: False
+- Ollama/OpenAI called: no
+- Summaries or tags generated: no
+- PROSE implementation modified: no

@@ -1,0 +1,310 @@
+{
+  "evaluation_scope": "Partial (interrupted) 500-budget Algorithm 1 run - checkpoint snapshot only",
+  "source_files": [
+    "calibration/cost_constrained_experiment_500_final/budget_500.checkpoint.json",
+    "calibration/cost_constrained_experiment_500_final/manifest.json"
+  ],
+  "read_only_confirmation": "Original experiment files not modified",
+  "run_metadata": {
+    "model": "qwen3:8b",
+    "endpoint": "http://172.21.112.1:11434",
+    "participant_count": 100,
+    "seed": 0,
+    "status": "interrupted",
+    "termination_reason": "thresholds_exhausted"
+  },
+  "extracted_counts": {
+    "candidate_records": 251,
+    "successful_generations": 156,
+    "generation_failures": 95,
+    "selected_statements": 18,
+    "assigned_participants": 79,
+    "remaining_participants": 21,
+    "score_cache_entries": 4469
+  },
+  "query_accuracy": {
+    "label": "MODEL-BASED approval scores from the qwen3:8b Disc query - not human ground truth",
+    "human_ground_truth_available": false,
+    "scored_pairs_total": 4603,
+    "score_scale": {
+      "min_observed": 1,
+      "max_observed": 6,
+      "expected_range": [
+        1,
+        6
+      ]
+    },
+    "out_of_range_scores": 0,
+    "score_distribution_counts": {
+      "1": 430,
+      "2": 1761,
+      "3": 18,
+      "4": 703,
+      "5": 656,
+      "6": 1035
+    },
+    "score_distribution_percent": {
+      "1": 9.342,
+      "2": 38.258,
+      "3": 0.391,
+      "4": 15.273,
+      "5": 14.252,
+      "6": 22.485
+    },
+    "score_summary": {
+      "count": 4603,
+      "mean": 3.5429067999131,
+      "median": 4.0,
+      "stdev": 1.791274660147676,
+      "min": 1.0,
+      "max": 6.0
+    },
+    "per_candidate_mean_score": {
+      "count": 156,
+      "mean": 3.3726533945159916,
+      "median": 3.3333333333333335,
+      "stdev": 0.5709989702526392,
+      "min": 2.0,
+      "max": 5.01
+    },
+    "per_candidate_modal_score_share": {
+      "count": 156,
+      "mean": 0.4966381220791676,
+      "median": 0.42857142857142855,
+      "stdev": 0.1824630190224982,
+      "min": 0.2682926829268293,
+      "max": 1.0
+    },
+    "per_candidate_supporter_fraction": {
+      "count": 156,
+      "mean": 0.1622362582383966,
+      "median": 0.14285714285714285,
+      "stdev": 0.1303306832880499,
+      "min": 0.0,
+      "max": 0.7
+    },
+    "consistency": {
+      "unique_statements_scored": 154,
+      "statements_scored_more_than_once": 2,
+      "cached_score_pairs_checked": 4603,
+      "cached_score_conflicts": 0,
+      "note": "Repeated statements reuse the score_cache, so identical scores are guaranteed by construction; this is NOT an independent test-retest reliability measurement. No repeated independent scoring calls exist."
+    },
+    "interpretation_caveat": "These figures describe the LLM scorer's output distribution and internal concentration only. No human ratings exist in this project, so no accuracy relative to ground truth, no BJR/cBJR guarantee, and no calibration against human preferences can be claimed."
+  },
+  "representation": {
+    "participants_total": 100,
+    "statements_selected": 18,
+    "participants_assigned": 79,
+    "unique_assigned_participants": 79,
+    "participants_remaining": 21,
+    "coverage_percent": 79.0,
+    "remaining_percent": 21.0,
+    "assigned_per_statement": {
+      "count": 18,
+      "mean": 4.388888888888889,
+      "median": 5.0,
+      "stdev": 1.9444911292248126,
+      "min": 1.0,
+      "max": 7.0
+    },
+    "assigned_per_statement_distribution": {
+      "1": 1,
+      "2": 4,
+      "3": 1,
+      "4": 2,
+      "5": 3,
+      "6": 5,
+      "7": 2
+    },
+    "sum_of_statement_assignment_counts": 79,
+    "participants_assigned_more_than_once": {},
+    "required_support_distribution": {
+      "1": 1,
+      "2": 4,
+      "3": 1,
+      "4": 2,
+      "5": 3,
+      "6": 5,
+      "7": 2
+    },
+    "supporter_count_distribution": {
+      "8": 1,
+      "11": 1,
+      "12": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "19": 1,
+      "20": 1,
+      "24": 1,
+      "29": 1,
+      "32": 1,
+      "35": 1,
+      "37": 1,
+      "50": 1,
+      "58": 1,
+      "60": 1,
+      "61": 1,
+      "70": 1
+    },
+    "note": "Each selected statement represents only the minimum required_support agents (highest-scoring supporters), not all of its supporters at the threshold."
+  },
+  "statement_diversity": {
+    "selected_unique_statements": 16,
+    "selected_statement_count": 18,
+    "selected_exact_duplicates": 2,
+    "generated_unique_statements": 154,
+    "generated_statement_count": 156,
+    "generated_exact_duplicates": 2,
+    "lexical_jaccard_all_tokens": {
+      "count": 153,
+      "mean": 0.1765093821264326,
+      "median": 0.14,
+      "stdev": 0.14534031812109263,
+      "min": 0.027777777777777776,
+      "max": 1.0
+    },
+    "lexical_jaccard_content_tokens": {
+      "count": 153,
+      "mean": 0.13978188247363757,
+      "median": 0.1,
+      "stdev": 0.14450726408146114,
+      "min": 0.02631578947368421,
+      "max": 1.0
+    },
+    "distinct_vocabulary_size_selected": 133,
+    "total_tokens_selected": 363,
+    "type_token_ratio_selected": 0.3664,
+    "word_count_per_statement": {
+      "count": 18,
+      "mean": 19.944444444444443,
+      "median": 22.5,
+      "stdev": 9.320895073292064,
+      "min": 5.0,
+      "max": 33.0
+    },
+    "semantic_similarity": {
+      "computed": false,
+      "reason": "No statement embeddings exist in the project. The only available embeddings are participant embeddings (qwen3:0.6b, for participant summaries), which are not comparable to statements. Computing statement embeddings would require Ollama calls, which are explicitly out of scope for this evaluation."
+    }
+  },
+  "budget_utilisation": {
+    "total_budget_words": 500,
+    "checkpoint_budget_remaining": 141,
+    "checkpoint_implied_consumed": 359,
+    "sum_selected_statement_word_counts": 359,
+    "last_selection_cumulative_consumed": 359,
+    "last_selection_cumulative_remaining": 141,
+    "utilisation_percent": 71.8,
+    "words_remaining_percent": 28.2,
+    "reconciliation": {
+      "consumed_matches_checkpoint_implied": true,
+      "selected_word_counts_match_count_words": true,
+      "cumulative_field_matches_sum": true
+    },
+    "word_count_per_statement": {
+      "count": 18,
+      "mean": 19.944444444444443,
+      "median": 22.5,
+      "stdev": 9.320895073292064,
+      "min": 5.0,
+      "max": 33.0
+    }
+  },
+  "runtime": {
+    "source": "manifest.json (wall-clock runtime until KeyboardInterrupt)",
+    "manifest_status": "interrupted",
+    "manifest_error": "KeyboardInterrupt",
+    "total_runtime_seconds": 2071.927702503999,
+    "total_runtime_minutes": 34.532,
+    "per_event_timestamps_available": false,
+    "missing_timing_data": "The checkpoint contains no per-generation or per-scoring timestamps; separate average generation/scoring times CANNOT be calculated.",
+    "derived_aggregates_from_total_only": {
+      "seconds_per_candidate_record": 8.255,
+      "seconds_per_successful_generation": 13.282,
+      "seconds_per_selected_statement": 115.107,
+      "caveat": "Derived by dividing total wall-clock time by counts; includes retries, scoring, connectivity checks and interrupt handling. NOT isolated generation or scoring times."
+    }
+  },
+  "validation": {
+    "all_checks_passed": true,
+    "checks": [
+      {
+        "check": "no_duplicate_assignments",
+        "passed": true
+      },
+      {
+        "check": "no_duplicate_within_statement_assignments",
+        "passed": true
+      },
+      {
+        "check": "assigned_plus_remaining_equals_100",
+        "passed": true
+      },
+      {
+        "check": "assigned_and_remaining_disjoint",
+        "passed": true
+      },
+      {
+        "check": "assigned_remaining_union_is_expected_population",
+        "passed": true
+      },
+      {
+        "check": "statement_assignment_counts_sum_to_79",
+        "passed": true
+      },
+      {
+        "check": "participants_assigned_equals_79",
+        "passed": true
+      },
+      {
+        "check": "participants_remaining_equals_21",
+        "passed": true
+      },
+      {
+        "check": "selected_statements_equals_18",
+        "passed": true
+      },
+      {
+        "check": "budget_consumed_equals_359",
+        "passed": true
+      },
+      {
+        "check": "budget_remaining_equals_141",
+        "passed": true
+      },
+      {
+        "check": "budget_consumed_plus_remaining_equals_500",
+        "passed": true
+      },
+      {
+        "check": "candidate_records_count_equals_candidate_number",
+        "passed": true
+      },
+      {
+        "check": "all_scores_in_1_6",
+        "passed": true
+      },
+      {
+        "check": "score_cache_matches_records",
+        "passed": true
+      },
+      {
+        "check": "selected_statements_all_have_matching_generated_record",
+        "passed": true
+      },
+      {
+        "check": "selected_word_counts_match_count_words",
+        "passed": true
+      }
+    ]
+  },
+  "limitations": [
+    "Partial experiment: 18 of a potentially larger slate; 141 words unspent.",
+    "No human ground truth: 'accuracy' is only model-score distribution/consistency.",
+    "No statement embeddings and no Ollama calls: semantic similarity not computed.",
+    "No per-event timestamps: separate generation/scoring times not available.",
+    "Success/failure of generation reflects the 3-attempt retry cap and word-budget validation."
+  ]
+}

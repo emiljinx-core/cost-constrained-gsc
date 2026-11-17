@@ -1,0 +1,58 @@
+{
+  "participants_total": 100,
+  "statements_selected": 18,
+  "participants_assigned": 79,
+  "unique_assigned_participants": 79,
+  "participants_remaining": 21,
+  "coverage_percent": 79.0,
+  "remaining_percent": 21.0,
+  "assigned_per_statement": {
+    "count": 18,
+    "mean": 4.388888888888889,
+    "median": 5.0,
+    "stdev": 1.9444911292248126,
+    "min": 1.0,
+    "max": 7.0
+  },
+  "assigned_per_statement_distribution": {
+    "1": 1,
+    "2": 4,
+    "3": 1,
+    "4": 2,
+    "5": 3,
+    "6": 5,
+    "7": 2
+  },
+  "sum_of_statement_assignment_counts": 79,
+  "participants_assigned_more_than_once": {},
+  "required_support_distribution": {
+    "1": 1,
+    "2": 4,
+    "3": 1,
+    "4": 2,
+    "5": 3,
+    "6": 5,
+    "7": 2
+  },
+  "supporter_count_distribution": {
+    "8": 1,
+    "11": 1,
+    "12": 1,
+    "14": 1,
+    "15": 1,
+    "16": 1,
+    "19": 1,
+    "20": 1,
+    "24": 1,
+    "29": 1,
+    "32": 1,
+    "35": 1,
+    "37": 1,
+    "50": 1,
+    "58": 1,
+    "60": 1,
+    "61": 1,
+    "70": 1
+  },
+  "note": "Each selected statement represents only the minimum required_support agents (highest-scoring supporters), not all of its supporters at the threshold."
+}

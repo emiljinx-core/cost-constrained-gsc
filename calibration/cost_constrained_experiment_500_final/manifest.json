@@ -1,0 +1,21 @@
+{
+  "schema_version": "abortion-cost-constrained-manifest-v1",
+  "model": "qwen3:8b",
+  "endpoint": "http://172.21.112.1:11434",
+  "disc_endpoint": "http://172.21.112.1:11434",
+  "gen_endpoint": "http://172.21.112.1:11434",
+  "participant_count": 100,
+  "seed": 0,
+  "budgets": [
+    {
+      "budget": 500,
+      "status": "interrupted",
+      "output_file": null,
+      "error": "KeyboardInterrupt",
+      "runtime_seconds": 268.2587970029999
+    }
+  ],
+  "checkpoint_files": {
+    "500": "budget_500.checkpoint.json"
+  }
+}
