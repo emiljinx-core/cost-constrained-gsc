@@ -76,7 +76,7 @@ CC-GSC/
 ├── data/
 │   ├── abortion_generation_prose_cleaned.csv
 │   └── cleaned_preprocessing_report.txt
-├── report/                                 # add LaTeX source and figures here
+├── report/                                 # LaTeX source and figures 
 ├── requirements.txt
 ├── LICENSE
 └── README.md
@@ -89,7 +89,7 @@ CC-GSC/
 Python **3.12** is required.
 
 ```bash
-git clone <your-repo-url>
+git clone [https://github.com/emiljinx-core](https://github.com/emiljinx-core/cost-constrained-gsc/)
 cd CC-GSC
 pip install -r requirements.txt
 ```
